@@ -12,7 +12,7 @@ ctoa is a simple CLI tool that prints each character of the input string alongsi
 ## Why?
 This is an educational project. I had a computer science class on Information Encoding, and I got really interested in it. I wanted to automate conversion from decimal to binary, hex, etc.
 
---
+---
 
 ## Features
 - ASCII output in decimal
