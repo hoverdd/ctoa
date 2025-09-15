@@ -30,7 +30,7 @@ make
 ## Usage
 To pass multiple words add quotes (`"hello world"`).
 ```bash
-./ctoa "text" # quotes are useful when you type a lot of text not just a word
+./ctoa "text" # quotes are needed when you type a lot of text not just a word
 ``` 
 
 Example:
