@@ -1,6 +1,6 @@
 # ctoa
 
-ctoa - char to ascii conversion (decimal, hex, binary).
+ctoa - char to ascii conversion CLI tool (decimal, hex, binary).
 
 ---
 
